@@ -1,0 +1,9 @@
+name: MurderMystery
+version: 1.0
+main: de.presti.mudermystery.main.Main
+author: Presti
+commands:
+   mm:
+   forcemap:
+   start:
+   stats:
